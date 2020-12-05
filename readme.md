@@ -3,7 +3,7 @@
 
 ## Tabla de contenido
 
-- [Gobuster Commands](#Gobuster-Commands).
+- [Introducción](#Introducción).
 - [Gobuster Commands](#Gobuster-Commands).
 - [Ejemplos](#Ejemplos).
 
