@@ -4,8 +4,8 @@
 ## Tabla de contenido
 
 - [Gobuster Commands](#Gobuster-Commands).
-- [Nmap Switches](#Nmap-Switches).
-- [Tipos de escaneo - Descripción general](#Tipos-de-escaneo---Descripción-general).
+- [Gobuster Commands](#Gobuster-Commands).
+- [Ejemplos](#Ejemplos).
 
 
 --------------------------------
@@ -43,7 +43,9 @@ Detallaremos algunos opciones a continuación:
 
 Link de wordlist big: https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/big.txt
 
-Otros ejemplos: 
+--------------------------------
+### Ejemplos
+-------------------------------
 
 ```
 gobuster dir -u http://10.10.56.102:3333 -w /usr/share/wordlists
